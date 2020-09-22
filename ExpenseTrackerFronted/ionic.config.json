@@ -1,0 +1,7 @@
+{
+  "name": "ExpenseTrackerFronted",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
